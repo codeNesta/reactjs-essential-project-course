@@ -1,0 +1,548 @@
+{
+    "people": [{
+            "id": 1,
+            "name": "Aasil_Shaikh",
+            "profile_name":"Aasil Shaikh",
+            "profile_pic": "Aasil_Shaikh_1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "albums": [{
+                    "cover": "Aasil_Shaikh_1"
+                },
+                {
+                    "cover": "Aasil_Shaikh_2"
+                },
+                {
+                    "cover": "Aasil_Shaikh_3"
+                },
+                {
+                    "cover": "Aasil_Shaikh_4"
+                },
+                {
+                    "cover": "Aasil_Shaikh_5"
+                },
+                {
+                    "cover": "Aasil_Shaikh_6"
+                },
+                {
+                    "cover": "Aasil_Shaikh_7"
+                },
+                {
+                    "cover": "Aasil_Shaikh_8"
+                }
+            ],
+            "followers": "900K",
+            "following": "3k",
+            "online_status": "off"
+        },
+
+        {
+            "id": 2,
+            "name": "Arnie_Chou",
+            "profile_name":"Arnie Chou",
+            "profile_pic": "Arnie_Chou_1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "albums": [{
+                    "cover": "Arnie_Chou_1"
+                },
+                {
+                    "cover": "Arnie_Chou_2"
+                },
+                {
+                    "cover": "Arnie_Chou_3"
+                },
+                {
+                    "cover": "Arnie_Chou_4"
+                },
+                {
+                    "cover": "Arnie_Chou_5"
+                },
+                {
+                    "cover": "Arnie_Chou_6"
+                },
+                {
+                    "cover": "Arnie_Chou_7"
+                }
+            ],
+            "followers": "1.8M",
+            "following": "1k",
+            "online_status": "on"
+        },
+
+        {
+            "id": 3,
+            "name": "Brynna_Spencer",
+            "profile_name":"Brynna Spencer",
+            "profile_pic": "Brynna_Spencer_1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "albums": [{
+                    "cover": "Brynna_Spencer_1"
+                },
+                {
+                    "cover": "Brynna_Spencer_2"
+                },
+                {
+                    "cover": "Brynna_Spencer_3"
+                },
+                {
+                    "cover": "Brynna_Spencer_4"
+                },
+                {
+                    "cover": "Brynna_Spencer_5"
+                },
+                {
+                    "cover": "Brynna_Spencer_6"
+                },
+                {
+                    "cover": "Brynna_Spencer_7"
+                },
+                {
+                    "cover": "Brynna_Spencer_8"
+                }
+            ],
+            "followers": "1.1M",
+            "following": "2k",
+            "online_status": "on"
+        },
+
+        {
+            "id": 4,
+            "name": "Daniel_Xavier",
+            "profile_name":"Daniel Xavier",
+            "profile_pic": "Daniel_Xavier_1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "albums": [
+                {
+                    "cover": "Daniel_Xavier_3"
+                },
+                {
+                    "cover": "Daniel_Xavier_4"
+                },
+                {
+                    "cover": "Daniel_Xavier_5"
+                },
+                {
+                    "cover": "Daniel_Xavier_6"
+                }
+
+
+            ],
+            "followers": "2.1M",
+            "following": "2k",
+            "online_status": "on"
+        },
+        {
+            "id": 5,
+            "name": "Evan_Ip",
+            "profile_name":"Evan Ip",
+            "profile_pic": "Evan_Ip_1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "albums": [{
+                    "cover": "Evan_Ip_1"
+                },
+                {
+                    "cover": "Evan_Ip_2"
+                },
+                {
+                    "cover": "Evan_Ip_3"
+                },
+                {
+                    "cover": "Evan_Ip_4"
+                },
+                {
+                    "cover": "Evan_Ip_5"
+                },
+                {
+                    "cover": "Evan_Ip_6"
+                },
+                {
+                    "cover": "Evan_Ip_7"
+                },
+                {
+                    "cover": "Evan_Ip_8"
+                }
+
+            ],
+            "followers": "3.1M",
+            "following": "1k",
+            "online_status": "off"
+        },
+        {
+            "id": 6,
+            "name": "Hansa",
+            "profile_name":"Hansa",
+            "profile_pic": "Hansa_1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "albums": [{
+                    "cover": "Hansa_1"
+                },
+                {
+                    "cover": "Hansa_2"
+                },
+                {
+                    "cover": "Hansa_3"
+                },
+                {
+                    "cover": "Hansa_4"
+                },
+                {
+                    "cover": "Hansa_5"
+                },
+                {
+                    "cover": "Hansa_6"
+                },
+                {
+                    "cover": "Hansa_7"
+                },
+                {
+                    "cover": "Hansa_8"
+                }
+
+            ],
+            "followers": "8.1M",
+            "following": "1k",
+            "online_status": "on"
+        },
+        {
+            "id": 7,
+            "name": "Jaffrey_Reed",
+            "profile_name":"Jaffrey Reed",
+            "profile_pic": "Jaffrey_Reed_1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "albums": [{
+                    "cover": "Jaffrey_Reed_1"
+                },
+                {
+                    "cover": "Jaffrey_Reed_2"
+                },
+                {
+                    "cover": "Jaffrey_Reed_3"
+                },
+                {
+                    "cover": "Jaffrey_Reed_4"
+                },
+                {
+                    "cover": "Jaffrey_Reed_5"
+                },
+                {
+                    "cover": "Jaffrey_Reed_6"
+                },
+                {
+                    "cover": "Jaffrey_Reed_7"
+                },
+                {
+                    "cover": "Jaffrey_Reed_8"
+                }
+
+            ],
+            "followers": "8.1M",
+            "following": "1k",
+            "online_status": "off"
+        },
+         {
+            "id": 8,
+            "name": "Joy_Deb",
+            "profile_name":"Joy Deb",
+            "profile_pic": "Joy_Deb_1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "albums": [{
+                    "cover": "Joy_Deb_1"
+                },
+                {
+                    "cover": "Joy_Deb_2"
+                },
+                {
+                    "cover": "Joy_Deb_3"
+                },
+                {
+                    "cover": "Joy_Deb_4"
+                },
+                {
+                    "cover": "Joy_Deb_5"
+                },
+                {
+                    "cover": "Joy_Deb_6"
+                },
+                {
+                    "cover": "Joy_Deb_7"
+                },
+                {
+                    "cover": "Joy_Deb_8"
+                }
+
+            ],
+            "followers": "8.1M",
+            "following": "1k",
+            "online_status": "off"
+        }
+        ,
+         {
+            "id": 9,
+            "name": "Marx_Illagan",
+            "profile_name":"Marx Illagan",
+            "profile_pic": "Marx_Illagan_1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "albums": [{
+                    "cover": "Marx_Illagan_1"
+                },
+                {
+                    "cover": "Marx_Illagan_2"
+                },
+                {
+                    "cover": "Marx_Illagan_3"
+                },
+                {
+                    "cover": "Marx_Illagan_4"
+                },
+                {
+                    "cover": "Marx_Illagan_5"
+                },
+                {
+                    "cover": "Marx_Illagan_6"
+                },
+                {
+                    "cover": "Marx_Illagan_7"
+                },
+                {
+                    "cover": "Marx_Illagan_8"
+                }
+
+            ],
+            "followers": "8.1M",
+            "following": "1k",
+            "online_status": "off"
+        },
+        {
+            "id": 10,
+            "name": "Min_An",
+            "profile_name":"Min An",
+            "profile_pic": "Min_An_1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "albums": [{
+                    "cover": "Min_An_1"
+                },
+                {
+                    "cover": "Min_An_2"
+                },
+                {
+                    "cover": "Min_An_3"
+                },
+                {
+                    "cover": "Min_An_4"
+                },
+                {
+                    "cover": "Min_An_5"
+                },
+                {
+                    "cover": "Min_An_6"
+                },
+                {
+                    "cover": "Min_An_7"
+                },
+                {
+                    "cover": "Min_An_8"
+                }
+
+            ],
+            "followers": "5.1M",
+            "following": "2k",
+            "online_status": "off"
+        }
+        ,
+        {
+            "id": 11,
+            "name": "Nayleth",
+            "profile_name":"Nayleth",
+            "profile_pic": "Nayleth_1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "albums": [{
+                    "cover": "Nayleth_1"
+                },
+                {
+                    "cover": "Nayleth_2"
+                },
+                {
+                    "cover": "Nayleth_3"
+                },
+                {
+                    "cover": "Nayleth_4"
+                },
+                {
+                    "cover": "Nayleth_5"
+                },
+                {
+                    "cover": "Nayleth_6"
+                },
+                {
+                    "cover": "Nayleth_7"
+                },
+                {
+                    "cover": "Nayleth_8"
+                },
+                {
+                    "cover": "Nayleth_9"
+                },
+                {
+                    "cover": "Nayleth_10"
+                }
+
+            ],
+            "followers": "8.4M",
+            "following": "1k",
+            "online_status": "off"
+        },
+        {
+            "id": 12,
+            "name": "Rahul_Shah",
+            "profile_name":"Rahul_Shah",
+            "profile_pic": "Rahul_Shah_1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "albums": [{
+                    "cover": "Rahul_Shah_1"
+                },
+                {
+                    "cover": "Rahul_Shah_2"
+                },
+                {
+                    "cover": "Rahul_Shah_3"
+                },
+                {
+                    "cover": "Rahul_Shah_4"
+                },
+                {
+                    "cover": "Rahul_Shah_5"
+                },
+                {
+                    "cover": "Rahul_Shah_6"
+                },
+                {
+                    "cover": "Rahul_Shah_7"
+                },
+                {
+                    "cover": "Rahul_Shah_8"
+                }
+
+            ],
+            "followers": "1.1M",
+            "following": "1k",
+            "online_status": "off"
+        }
+        ,
+        {
+            "id": 13,
+            "name": "Sushant_Singh",
+            "profile_name":"Sushant Singh",
+            "profile_pic": "Sushant_Singh_1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "albums": [{
+                    "cover": "Sushant_Singh_1"
+                },
+                {
+                    "cover": "Sushant_Singh_2"
+                },
+                {
+                    "cover": "Sushant_Singh_3"
+                },
+                {
+                    "cover": "Sushant_Singh_4"
+                },
+                {
+                    "cover": "Sushant_Singh_5"
+                },
+                {
+                    "cover": "Sushant_Singh_6"
+                },
+                {
+                    "cover": "Sushant_Singh_7"
+                }
+
+
+            ],
+            "followers": "2.2M",
+            "following": "1k",
+            "online_status": "on"
+        },
+
+        {
+            "id": 14,
+            "name": "Tran_Trung",
+            "profile_name":"Tran Trung",
+            "profile_pic": "Tran_Trung_1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "albums": [{
+                    "cover": "Tran_Trung_1"
+                },
+                {
+                    "cover": "Tran_Trung_2"
+                },
+                {
+                    "cover": "Tran_Trung_3"
+                },
+                {
+                    "cover": "Tran_Trung_4"
+                },
+                {
+                    "cover": "Tran_Trung_5"
+                },
+                {
+                    "cover": "Tran_Trung_6"
+                },
+                {
+                    "cover": "Tran_Trung_7"
+                },
+                {
+                    "cover": "Tran_Trung_8"
+                }
+
+            ],
+            "followers": "3.1M",
+            "following": "1k",
+            "online_status": "on"
+        },
+                {
+            "id": 15,
+            "name": "Yogendra_Singh",
+            "profile_name":"Yogendra Singh",
+            "profile_pic": "Yogendra_Singh_1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "albums": [{
+                    "cover": "Yogendra_Singh_1"
+                },
+                {
+                    "cover": "Yogendra_Singh_2"
+                },
+                {
+                    "cover": "Yogendra_Singh_3"
+                },
+                {
+                    "cover": "Yogendra_Singh_4"
+                },
+                {
+                    "cover": "Yogendra_Singh_5"
+                },
+                {
+                    "cover": "Yogendra_Singh_6"
+                },
+                {
+                    "cover": "Yogendra_Singh_7"
+                },
+                {
+                    "cover": "Yogendra_Singh_8"
+                }
+
+            ],
+            "followers": "2.3M",
+            "following": "2k",
+            "online_status": "on"
+        }
+
+
+
+
+
+
+
+
+
+
+    ]
+}

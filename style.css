@@ -1,0 +1,294 @@
+
+/*search*/
+body{
+    /* background-color: #222f3e!important*/
+ }
+ 
+ 
+ *{
+     box-sizing: border-box;
+ }
+ 
+ .home{
+     display: flex;
+    background-color: #81ecec !important;
+ /*   margin: 0 auto !important;*/
+    height: 70px;
+   padding: 10px;
+   justify-content: space-between;
+ 
+   margin-bottom: 20px!important;
+   box-shadow: 0 4px 10px 5px rgba(0, 0, 0, 0.3);
+   position: sticky;
+   top:0;
+   z-index: 99999
+ 
+ 
+ }
+ 
+ .homeLogo{
+   align-self: center;
+   font-weight: light;
+   text-decoration: none;
+   text-shadow: 1px 4px 5px rgba(9,2,71,0.69);
+   font-size: 35px;
+   color:#fff;
+   margin-left: 20px;
+   font-family:  Helvetica
+ }
+
+ a{
+     font-size: 30px;
+     text-decoration: none;
+ }
+
+ 
+ 
+ 
+ 
+ input{
+ margin-bottom: 100px;
+  border-radius: 60px!important;
+   border: 0px solid;
+   padding-left: 20px;
+      height: 50px;
+      width:400px;
+ }
+ 
+ input:focus{
+     outline:none;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         /*FRIENDS*/
+ 
+ 
+ 
+ .allProfilePicContainer{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+ align-content: center;
+     background-color: #17c0eb;
+     height:auto;
+ /*    padding-left:2px;*/
+ 
+ }
+ 
+ 
+ .singleProfilePicContainer{
+ 
+       position: relative;
+       height:400px;
+       flex-grow: 1;
+       margin: 0 0 2px 2px;
+        object-fit: fill;
+            flex-basis: 113px;
+ 
+ 
+ 
+ 
+ }
+ 
+ 
+ 
+ .singleProfilePicContainer::before{
+     content:'';
+     display: block;
+     position: absolute;
+     width: 100%:
+     height:100%;
+     bottom:0;
+     left:0;
+     top:0;
+     right:0;
+    background: -moz-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(41,41,41,0.46) 83%, rgba(0,0,0,0.88) 99%, rgba(0,0,0,0.91) 100%);
+ background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%,rgba(41,41,41,0.46) 83%,rgba(0,0,0,0.88) 99%,rgba(0,0,0,0.91) 100%);
+ background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,rgba(41,41,41,0.46) 83%,rgba(0,0,0,0.88) 99%,rgba(0,0,0,0.91) 100%);
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#e8000000',GradientType=0 );
+ 
+ }
+ 
+ .profiePic{
+ 
+    object-fit: cover;
+     height: 100%
+ 
+ 
+ 
+ }
+ 
+ 
+ 
+ img{
+     display: block;
+     width: 100%;
+     height: ;
+ }
+ 
+ .info{
+     position: absolute;
+     left:0;
+     bottom:0;
+ 
+     font-size: 15px;
+     color:#7efff5;
+       margin-left: 10px;
+   font-family: 'Jua', sans-serif;
+   letter-spacing: 3px
+ }
+ 
+ .live{
+     width: 70px;
+     height:30px;
+     position: absolute;
+     bottom: 0;
+     right:0;
+     display: block;
+     margin-left: -50px;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ .singleProfilePicContainer:nth-child(4n+1){
+     flex-basis: 323px;
+    }
+ 
+ .singleProfilePicContainer:nth-child(4n+2){
+     flex-basis: 331px;
+    }
+ 
+    .singleProfilePicContainer:nth-child(4n+3){
+     flex-basis: 217px;
+    }
+ 
+ .singleProfilePicContainer:nth-child(3n+4){
+     flex-basis: 338px;
+    }
+ 
+    .singleProfilePicContainer:nth-child(2n+5){
+     flex-basis: 123px;
+    }
+ 
+ 
+ 
+ 
+    /*--------------friendDetail*/
+ 
+    .detailContainer{
+        display: flex;
+      justify-content: center;
+ 
+      width: 900px;
+      margin: 0 auto;
+    }
+ 
+ 
+  .detailProfilePicContainer{
+       flex-basis: 700px;
+ 
+         overflow: hidden;
+         align-items: center
+ 
+    }
+ 
+ 
+ .detailProfilePicContainer > img{
+      height:200px;
+      width: 200px;
+      border-radius: 100px;
+      margin: 0 auto;
+      object-fit: cover;
+      margin-top: 50px;
+      border:8px solid #81ecec;
+ 
+ }
+ 
+ .detailProfilePic{
+ 
+ }
+ 
+ 
+ .detailRightSide{
+     flex-basis: 900px;
+     border-left: 2px solid #efefef;
+     padding-left: 50px;
+ 
+ }
+ 
+ 
+ 
+ .nameAndFollower{
+     display: flex;
+     align-items: center
+ }
+ 
+ .followerAndFollowing{
+     display: flex;
+     align-items: center;
+ }
+ 
+ .followerAndFollowing > h1{
+     margin-right: 50px;
+ }
+ 
+ .nameAndFollower > h1{
+     margin-right: 50px;
+ }
+ 
+ 
+ 
+ .detailAlbumsListContainer{
+     display: flex !important;
+     flex-wrap: wrap;
+     flex-direction: row;
+   /*  justify-content: center;
+     align-items: center;*/
+ 
+ 
+ 
+ 
+ 
+ }
+ 
+ /*.detailAlbumsListContainer  img{
+ 
+     width:300px;
+ 
+ }*/
+ 
+ .detailSinglePicContainer{
+     flex: 1 0 calc(25% - 10px);
+     overflow: hidden !important;
+ 
+     margin:5px;
+     height:280px;
+     position: relative;
+     object-fit: cover
+ }
+ 
+ .detailAlbumPic{
+     position: absolute;
+     width: 100%;
+     display: block;
+     height: 100%;
+     object-fit: cover
+ 
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
